@@ -90,4 +90,21 @@ p {
     .links:hover {
         background-color: dodgerblue;
     }
+#contacts{
+    background: blue;
+    
+    
+}
+#contacts iframe{
+    
+    width: 100%
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    
+    color: aqua;
+    text-shadow: none;
+}
 
